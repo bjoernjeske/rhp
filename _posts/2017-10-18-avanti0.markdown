@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "rework"
+date:   2017-10-18 11:06:27 +0200
+categories: books
+---
+
+### [Rework][rework]
+
+![My helpful screenshot]({{ "https://images-na.ssl-images-amazon.com/images/I/41tZnkx9R1L._SX329_BO1,204,203,200_.jpg" | absolute_url }})
+
+[buy on amazon][rework]
+
+[rework]: https://www.amazon.de/Rework-Jason-Fried/dp/0307463745

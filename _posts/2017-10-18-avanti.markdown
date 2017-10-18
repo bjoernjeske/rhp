@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "avanticigars"
+date:   2017-10-18 11:06:27 +0200
+categories: tobacco
+---
+
+### [Those Clint Eastwood Cigars][avanti]
+
+![My helpful screenshot]({{ "http://avanticigar.com/wp-content/uploads/2013/10/Estilo_Box_Foil_Closed.jpg" | absolute_url }})
+
+[get it on avanticigar.com][avanti]
+
+[avanti]: http://avanticigar.com
