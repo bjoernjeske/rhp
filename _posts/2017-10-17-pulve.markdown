@@ -9,6 +9,6 @@ categories: nutrition
 
 ![My helpful screenshot]({{ "https://cdn.shopify.com/s/files/1/0971/5526/products/pulve-single-meal_2048x2048.jpg?v=1507759632" | absolute_url }})
 
-[pulve.com][pulve]
+[buy on pulve][pulve]
 
 [pulve]: https://pulve.com

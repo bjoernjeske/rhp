@@ -107,7 +107,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  //border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
@@ -120,6 +120,7 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  float: right;
 }
 
 .footer-col-wrapper {
@@ -177,7 +178,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  //padding: $spacing-unit 0;
   padding-top: 0;
 }
 
@@ -256,6 +257,10 @@
   border-bottom: none;
   padding: 0.5rem 2rem 1rem 2rem;
   //margin-bottom: 2rem;
+  &:last-child {
+    border-bottom: 1px solid gray;
+
+  }
   img {
     max-height: 200px;
 

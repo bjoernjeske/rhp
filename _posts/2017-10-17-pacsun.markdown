@@ -9,6 +9,6 @@ categories: fashion
 
 ![My helpful screenshot]({{ "http://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw8b11a4aa/product_images/0097511000001NEW_01_998.jpg?sw=340&sh=528&sm=fit" | absolute_url }})
 
-[buy on pacsun.com][champion]
+[buy on pacsun][champion]
 
 [champion]: http://www.pacsun.com/champion/x-pacsun-tie-dye-t-shirt-0097511000001.html?cgid=champion&start=8&dwvar_0097511000001_color=998
