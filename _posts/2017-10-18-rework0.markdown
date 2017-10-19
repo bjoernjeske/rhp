@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "aevor"
+description: Jason Fried & David Hanemeyer Hanson
+date:   2017-10-18 11:06:27 +0200
+categories: books
+---
+
+### [Aevor Daypack Proof Black][aevor]
+
+Award winning back pack.
+
+![Aevor Daypack Proof Black ]({{ "http://www.aevor.com/media/catalog/product/cache/2/thumbnail/550x735/9df78eab33525d08d6e5fb8d27136e95/o/r/orS3X9KJ.jpg" | absolute_url }})
+
+[buy on aevor][aevor]
+
+[aevor]: http://www.aevor.com/en/daypack-proof-black/

@@ -8,6 +8,8 @@ categories: books
 
 ### [Rework][rework]
 
+Empowering book for 'starters'. (Never say 'entrepreneur' again.)
+
 ![Rework by Jason Fried & David Heinemeier Hanson]({{ "https://images-na.ssl-images-amazon.com/images/I/41tZnkx9R1L._SX329_BO1,204,203,200_.jpg" | absolute_url }})
 
 [buy on amazon][rework]
