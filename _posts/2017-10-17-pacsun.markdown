@@ -2,7 +2,7 @@
 layout: post
 title:  "pacsun"
 date:   2017-10-17 14:02:27 +0200
-categories: fashion
+categories: apparel
 ---
 
 ### [Champion x PacSun Tie-Dye T-Shirt][champion]
