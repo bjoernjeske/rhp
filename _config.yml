@@ -29,7 +29,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-google_analytics: UA-108401071-1
+google_analytics: UA-108401071-2
 
 
 
