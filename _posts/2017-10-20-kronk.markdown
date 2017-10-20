@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "kronk"
+description:
+date:   2017-10-20 13:39:27 +0200
+categories: apparel
+---
+
+### [Kronk Boxing Gym Detroit Sweatshirt][kronk]
+
+Legandary Gym Apparel
+
+![Kronk Boxing Gym Detroit Sweatshirt]({{ "https://images-na.ssl-images-amazon.com/images/I/812f0XVuLmL._UY679_.jpg" | absolute_url }})
+
+**[buy on amazon][kronk]**
+
+[kronk]: https://www.amazon.de/Detroit-Sweatshirt-Rundhalsausschnitt-Wladimir-Klitschko/dp/B00C8SJWI8/ref=sr_1_7?ie=UTF8&qid=1508499554&sr=8-7&keywords=kronk

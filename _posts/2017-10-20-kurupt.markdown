@@ -3,7 +3,7 @@ layout: post
 title:  "kurupt"
 description:
 date:   2017-10-20 11:54:27 +0200
-categories: books
+categories: music
 ---
 
 ### [Kurupt][kurupt]
