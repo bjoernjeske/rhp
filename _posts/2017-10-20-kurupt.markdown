@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "kurupt"
+description:
+date:   2017-10-20 11:54:27 +0200
+categories: books
+---
+
+### [Kurupt][kurupt]
+
+Kurupt's Greatest Hits
+
+![Who Ride Wit Us: Kurupt's Greatest Hits]({{ "https://images-eu.ssl-images-amazon.com/images/I/618p8ZqPxpL._SS500_PIPJStripe-Robin-Large-V2,TopLeft,0,0.jpg" | absolute_url }})
+
+**[buy on amazon][kurupt]**
+
+[kurupt]: https://www.amazon.de/Who-Ride-Wit-Us-Greatest/dp/B00K3CJDAI/ref=sr_1_4?s=dmusic&ie=UTF8&qid=1508493194&sr=1-4-mp3-albums-bar-strip-0&keywords=kurupt

@@ -9,6 +9,6 @@ categories: tobacco
 
 ![My helpful screenshot]({{ "http://avanticigar.com/wp-content/uploads/2013/10/Estilo_Box_Foil_Closed.jpg" | absolute_url }})
 
-[buy on avanticigar][avanti]
+**[buy on avanticigar][avanti]**
 
 [avanti]: http://avanticigar.com
